@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aw-santo
 - 👀 I’m interested in web-dev/ML
-- 🌱 I’m currently learning ML
+- 🌱 I’m currently learning React
 - 💞️ I'm seeking a colleague to learn with me  
 - 📫 How to reach me -- instagram (https://www.instagram.com/aw_santo/) || email (sanghormode2@gmail.com)
 
