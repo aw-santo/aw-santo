@@ -4,12 +4,12 @@ Hola! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-
 <Java, React, Git, CS student at SGGSIE&T />
 --------------------------------------------
 
-I am pursuing 4th year of my bachelor's in engineering with a specialization in Computer Science. I have been solving problems related to DSA from LeetCode in my primary programming language Java. I also have been doing a decent amount of development in React. Currently I am learning DevOps.
+I am pursuing 4th year of my bachelor's in engineering with a specialization in Computer Science. I have been solving problems related to `DSA` from LeetCode in my primary programming language `Java`. I also have been doing a decent amount of development in `React`. Currently I am learning `DevOps`.
 
 * 🌍  I'm based in Shegaon, Maharashtra, India
 * ✉️  You can contact me at [sanghormode2@gmail.com](mailto:sanghormode2@gmail.com)
-* 🧠  I'm learning DevOps
-* 🤝  I'm open to collaborating on Java/React Development
+* 🧠  I'm learning `DevOps`
+* 🤝  I'm open for collaborating on `Java/React` Development
 
 ### Skills
 
@@ -35,11 +35,9 @@ I am pursuing 4th year of my bachelor's in engineering with a specialization in 
 
 [![@aw_santo's Holopin board](https://holopin.io/api/user/board?user=aw_santo)](https://holopin.io/@aw_santo)
 
-<b>My GitHub Stats</b>
+<b>GitHub Stats</b>
 
-<a href="http://www.github.com/aw-santo"><img src="https://github-readme-stats.vercel.app/api?username=aw-santo&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="aw-santo's GitHub stats" /></a>
 
-<a href="https://github.com/aw-santo" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aw-santo&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 --------------------------------------------
 Adios...
