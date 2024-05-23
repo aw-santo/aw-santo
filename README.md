@@ -1,7 +1,7 @@
 Hola! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif),  this is Sanket
 ==============================================================================================================================
 
-<Java, React, Git, CS student at SGGSIE&T />
+<Java, MERN, Angular, Spring, SQL, Git, SPftware Engineer at Sarvaha Systems />
 --------------------------------------------
 
 I am pursuing 4th year of my bachelor's in engineering with a specialization in Computer Science. I have been solving problems related to `DSA` from LeetCode in my primary programming language `Java`. I also have been doing a decent amount of development in `React`. Currently I am learning `DevOps`.
